@@ -51,3 +51,7 @@ public class NameArray {
 <p>Gusto ko mag buhat ka ug code na mu accept ug FIRST NAME , MIDDLE NAME , LAST NAME
 Dapat ang mga gi input nimu kay ma sulod ni siya sa array ug dapat mapa output pud na nimu gikan sa array</p>
 
+<p>Oh naa nawung ni Odin para ma inspire ka</p>
+
+
+<img src=image/odin.jpg style="margin-top:5rem;">
